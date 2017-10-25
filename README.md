@@ -1,6 +1,6 @@
-* Duckhunt implementation 
+* Duckhunt implementation *
 
-** The assignement
+** The assignement **
 
 This implementation was made to fulfill the DD2380 (Artificial Intellignece) first assignement. This assignement consisted in a
 AI program able to predict the flight trajectory of several birds in order to shoot with high confidence. Furthermore, it was 
@@ -8,7 +8,7 @@ necessary to guess to which species those birds belonged to. This second objecti
 would highly lower your punctuation. All these predictions shoud be done only given the observation of past movements.
 For more information on the assignement and the skeleton of the code, please refer to [1](https://kth.kattis.com/problems/kth.ai.duckhunt).
 
-** The code
+** The code **
 
 In this repository you will be able to find 2 basic modules:
 
