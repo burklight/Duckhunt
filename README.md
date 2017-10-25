@@ -13,6 +13,7 @@ For more information on the assignement and the skeleton of the code, please ref
 In this repository you will be able to find 2 basic modules:
 
 1. Player: In these files all the algorithms related to the prediction of next movements and species guessing can be found.
-2. HMM: In these files the implementation of Hidden Markov Models can be found. In this implementation we have manly used two papers:
+2. HMM: In these files the implementation of Hidden Markov Models can be found. In this implementation we have manly used three papers:
   - [A tutorial on Hidden Markov model and selected applications in speech recognition.](http://www.ece.ucsb.edu/Faculty/Rabiner/ece259/Reprints/tutorial%20on%20hmm%20and%20applications.pdf)
   - [A Revealing Introduction to Hidden Markov Models](https://www.cs.sjsu.edu/~stamp/RUA/HMM.pdf)
+  - [Numerically Stable Hidden Markov Model Implementation](http://bozeman.genome.washington.edu/compbio/mbt599_2006/hmm_scaling_revised.pdf)
