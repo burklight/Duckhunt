@@ -6,7 +6,7 @@ This implementation was made to fulfill the DD2380 (Artificial Intellignece) fir
 AI program able to predict the flight trajectory of several birds in order to shoot with high confidence. Furthermore, it was 
 necessary to guess to which species those birds belonged to. This second objective was very important since shooting a Black Stork
 would highly lower your punctuation. All these predictions shoud be done only given the observation of past movements.
-For more information on the assignement and the skeleton of the code, please refer to [1](https://kth.kattis.com/problems/kth.ai.duckhunt).
+For more information on the assignement and the skeleton of the code, please refer to this [website](https://kth.kattis.com/problems/kth.ai.duckhunt).
 
 ## The code 
 
