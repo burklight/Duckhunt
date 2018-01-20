@@ -1,5 +1,5 @@
 # Duckhunt implementation 
-
+ 
 ## The assignement
 
 This implementation was made to fulfill the DD2380 (Artificial Intellignece) first assignement. This assignement consisted in a
